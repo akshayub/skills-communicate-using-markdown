@@ -29,3 +29,12 @@ print("Hello, world!")
 ```
 
 <hr>
+
+### Add task list
+
+- [x] List syntax is required
+- [x] Add headers to markdown
+- [x] Add image to markdown
+- [x] Add code block to markdown
+- [ ] Finish up
+- [ ] This item is not complete
